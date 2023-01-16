@@ -1,9 +1,9 @@
-# 7DaysOfCode_LogicaJS
+# Logic with JS
 
-Desafio 7DaysOfCode de lógica de programação com JavaScript. Executei originalmente no p5.js, sem HTML e CSS, após poucas semanas de estudos de desenvolvimento web. 
+Result of the challenge [7DaysOfCode - Lógica com JavScript](https://7daysofcode.io/matricula/logica-programacao). Originally implemented in p5.js (wih no HTML and CSS) after just a few weeks of studies. 
 
-São 7 desafios voltados a testar e treinar conceitos básicos de lógica de programação.
+Remade months later in CodePen, with HTML, CSS and DOM Manipulation, but still focused on vanilla JavaScript.
 
-Refeito no CodePen com uso de HTML, CSS (SCSS) e manipulação de DOM, porém ainda com foco no JS puro.
+Composed of 7 individual challenges directed to testing and training basic concepts of programming.
 
 Link: https://codepen.io/collection/LPrydw
